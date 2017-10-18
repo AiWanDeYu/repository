@@ -3,3 +3,4 @@ git说明：
 	this is git test file.
 	1
 	暂存区的练习。
+	git status.
